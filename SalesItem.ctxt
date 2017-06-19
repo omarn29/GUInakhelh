@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=SalesItem
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SalesItem\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=SalesItem()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SalesItem\r\n
+comment2.params=sp
+comment2.target=SalesItem(int)
+comment3.params=
+comment3.target=int\ getNumOfItem()
+comment4.params=
+comment4.target=void\ getFinalPrice()
+comment5.params=
+comment5.target=void\ setPrice()
+comment6.params=
+comment6.target=void\ setNumber()
+comment7.params=y
+comment7.target=int\ sampleMethod(int)
+comment7.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+numComments=8
